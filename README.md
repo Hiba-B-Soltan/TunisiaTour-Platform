@@ -27,7 +27,7 @@
 
 Tunisia's tourism sector is losing ground — underused infrastructure, artisans invisible to global markets, and fragmented booking experiences scattered across a dozen disconnected tools.
 
-**TunisiaTour** isn't another booking app. It's a **full national tourism ecosystem** — built by 6 engineering students at ESPRIT — that unifies accommodation, transport, flights, events, and artisan commerce into one intelligent, AI-powered platform, running on a **private cloud infrastructure we built entirely ourselves.**
+**TunisiaTour** isn't another booking app. It's a **full national tourism ecosystem** — built by 7 engineering students at ESPRIT — that unifies accommodation, transport, flights, events, and artisan commerce into one intelligent, AI-powered platform, running on a **private cloud infrastructure we built entirely ourselves.**
 
 ---
 
