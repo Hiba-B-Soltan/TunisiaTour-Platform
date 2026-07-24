@@ -16,7 +16,7 @@
 
 <div align="center">
 
-| 🖥️ 6 Nodes | 👥 6 Engineers | ⏱️ 21+ Weeks | ☁️ 1 Private Cloud | 🧠 100% AI-Assisted |
+| 🖥️ 7 Nodes | 👥 7 Engineers | ⏱️ 21+ Weeks | ☁️ 1 Private Cloud | 🧠 100% AI-Assisted |
 |:---:|:---:|:---:|:---:|:---:|
 
 </div>
